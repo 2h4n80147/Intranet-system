@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Intranet</OriginalElement>
+  <nodes>
+    <node x="258.0" y="0.0">Intranet.IO</node>
+    <node x="0.0" y="0.0">Intranet.Database</node>
+    <node x="356.0" y="469.0">Intranet.Enums</node>
+    <node x="0.0" y="469.0">Intranet.Testers</node>
+    <node x="178.0" y="469.0">Intranet.Objects</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="237.5" y="247.5" />
+  <SelectedNodes>
+    <node>Intranet.Objects</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
